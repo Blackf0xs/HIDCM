@@ -1,4 +1,7 @@
 <?php 
+/*
+	Blackfoxs Team - Abdurhman - Saleh - Abdullah - Muhammed - Joud - Mahmmod 
+*/
     session_start();
     ob_start();
     include('../inc/cfg.php');
