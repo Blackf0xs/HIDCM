@@ -1,0 +1,20 @@
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Newtonsoft.Json.dll
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Newtonsoft.Json.pdb
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Newtonsoft.Json.xml
+c:\users\beats\Desktop\HIDCM\HID.exe
+c:\users\beats\Desktop\HIDCM\HID.pdb
+c:\users\beats\Desktop\HIDCM\HID.xml
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.add.resources
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.cancel.resources
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.Form1.resources
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.info.resources
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.login.resources
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.Resources.resources
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.exe
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.xml
+c:\users\beats\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\HID.pdb
